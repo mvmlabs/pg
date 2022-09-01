@@ -30,7 +30,7 @@ En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent 
 
 ### Activitats i fites
 
-** Repositoris **
+**Repositoris**
 
 [1DAW - ](https://docs.google.com/spreadsheets/d/1XJOxnXtz5m1X-f1Fxt0QpCeBM6_AtLzsJlz-oqbClb8/edit?usp=sharing)
 

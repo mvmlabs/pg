@@ -28,11 +28,19 @@ En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent 
 
 ### Apunts
 
+[1. Fonaments de la programació](https://docs.google.com/document/d/1FOsXI4HyUAwTVe_BVBkhsqSzRC6v7L2V7snhkHJevdw/edit?usp=sharing)
+
 ### Activitats i fites
 
-**Repositoris**
+**_Activitats de repàs_**
 
-[1DAW - LLista repositoris](https://docs.google.com/spreadsheets/d/1XJOxnXtz5m1X-f1Fxt0QpCeBM6_AtLzsJlz-oqbClb8/edit?usp=sharing)
+**_Fites a resoldre_**
+
+[AP1. Introducció a la programació](https://docs.google.com/document/d/1XhBOPs3ZV0hF_c3PZZW3Zd-fDmZHdprRYCdWv7X6cBU/edit?usp=sharing)
+
+**_Repositoris_**
+
+[1DAW - Llista repositoris](https://docs.google.com/spreadsheets/d/1XJOxnXtz5m1X-f1Fxt0QpCeBM6_AtLzsJlz-oqbClb8/edit?usp=sharing)
 
 [1ASIX - Llista repositoris](https://docs.google.com/spreadsheets/d/1j7XtjpuM-7QjDaFm-y2LEeBQlqRKtfQaICCveF0QqNA/edit?usp=sharing)
 

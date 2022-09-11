@@ -38,10 +38,4 @@ En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent 
 
 [AP1. Introducció a la programació](https://docs.google.com/document/d/1XhBOPs3ZV0hF_c3PZZW3Zd-fDmZHdprRYCdWv7X6cBU/edit?usp=sharing)
 
-**_Repositoris_**
-
-[1DAW - Llista repositoris](https://docs.google.com/spreadsheets/d/1XJOxnXtz5m1X-f1Fxt0QpCeBM6_AtLzsJlz-oqbClb8/edit?usp=sharing)
-
-[1ASIX - Llista repositoris](https://docs.google.com/spreadsheets/d/1j7XtjpuM-7QjDaFm-y2LEeBQlqRKtfQaICCveF0QqNA/edit?usp=sharing)
-
 ### Bibliografia complementària

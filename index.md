@@ -3,14 +3,14 @@
 En aquest repositori trobareu disponibles els continguts treballats a classe, així com els exemples resolts i les fites a assolir.
 Cada unitat formativa (UF) disposa de la seva carpeta corresponent, on estaran disponibles els continguts, fites a assolir i recursos.
 
-[Presentació del mòdul professional](M03. PG.Presentacio.pdf)
+[Presentació del mòdul professional](M03.PG.Presentacio.pdf)
 
 - [UF1. Programació estructurada](UF1/prog_estruc.md)
-- [UF2. Disseny modular]
-- [UF3. Fonaments de gestió de fitxers]
-- [UF4. Programació orientada a objectes (POO). Fonaments]
-- [UF5. POO. Llibreries de classes fonamentals]
-- [UF6. POO. Introducció a la persistència en BD]
+- UF2. Disseny modular
+- UF3. Fonaments de gestió de fitxers
+- UF4. Programació orientada a objectes (POO). Fonaments
+- UF5. POO. Llibreries de classes fonamentals
+- UF6. POO. Introducció a la persistència en BD
 
 **_Repositoris_**
 

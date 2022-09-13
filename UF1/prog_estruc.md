@@ -34,15 +34,13 @@ En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent 
 
 **_Activitats de repàs_**
 
-En aquest apartat trobareu les activitats treballades a classe per a entendre els conceptes i d'altres per a repassar i practicar
+En aquest apartat trobareu les activitats treballades a classe per a entendre els conceptes i d'altres per a repassar i practicar. Un cop resolts a classe, trobareu en un altre document les solucions.
 
 [Activitats](https://docs.google.com/document/d/1hdFTHBHNCBV_bWM59vvlKH4xCOJd7_RE8ozezpxlx1U/edit?usp=sharing)
 
 **_Fites a resoldre_**
 
-1. [AP1. Introducció a la programació](https://docs.google.com/document/d/1XhBOPs3ZV0hF_c3PZZW3Zd-fDmZHdprRYCdWv7X6cBU/edit?usp=sharing)
-
-Data límit d'entrega: 
-1ASIX: 16/09/22 a les 12.25h
+[AP1. Introducció a la programació](https://docs.google.com/document/d/1XhBOPs3ZV0hF_c3PZZW3Zd-fDmZHdprRYCdWv7X6cBU/edit?usp=sharing)
+Data límit d'entrega: 1ASIX: 16/09/22 a les 12.25h
 
 ### Bibliografia complementària

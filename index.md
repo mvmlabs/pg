@@ -3,6 +3,8 @@
 En aquest repositori trobareu disponibles els continguts treballats a classe, així com els exemples resolts i les fites a assolir.
 Cada unitat formativa (UF) disposa de la seva carpeta corresponent, on estaran disponibles els continguts, fites a assolir i recursos.
 
+[Presentació del mòdul professional](M03. PG.Presentacio.pdf)
+
 - [UF1. Programació estructurada](UF1/prog_estruc.md)
 - [UF2. Disseny modular]
 - [UF3. Fonaments de gestió de fitxers]

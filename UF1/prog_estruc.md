@@ -40,7 +40,7 @@ En aquest apartat trobareu les activitats treballades a classe per a entendre el
 
 **_Fites a resoldre_**
 
-[AP1. Introducció a la programació](https://docs.google.com/document/d/1Xh.hBOPs3ZV0hF_c3PZZW3Zd-fDmZHdprRYCdWv7X6cBU/edit?usp=sharing)
+[AP1. Introducció a la programació](https://docs.google.com/document/d/1XhBOPs3ZV0hF_c3PZZW3Zd-fDmZHdprRYCdWv7X6cBU/edit?usp=sharing)
 
 Data límit d'entrega: 
 - 1ASIX: 16/09/22 a les 12.25h

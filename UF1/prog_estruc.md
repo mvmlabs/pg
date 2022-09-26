@@ -1,6 +1,6 @@
 ## UF1. Programació estructurada
 
-### Objectius del mòdul professional
+### Objectius de la unitat formativa
 
 En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent en les següents fites:
 

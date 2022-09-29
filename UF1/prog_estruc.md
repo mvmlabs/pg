@@ -38,6 +38,8 @@ En aquest apartat trobareu les activitats treballades a classe per a entendre el
 
 [Activitats](https://docs.google.com/document/d/1hdFTHBHNCBV_bWM59vvlKH4xCOJd7_RE8ozezpxlx1U/edit?usp=sharing)
 
+[Activitats (Solucionades)](https://docs.google.com/document/d/15NtKHbZDQ_f38LDv5PEk-s8P9TNNE-8m1Uslw5PTHCo/edit?usp=sharing)
+
 **_Fites a resoldre_**
 
 [AP1. Introducció a la programació](https://docs.google.com/document/d/1XhBOPs3ZV0hF_c3PZZW3Zd-fDmZHdprRYCdWv7X6cBU/edit?usp=sharing)

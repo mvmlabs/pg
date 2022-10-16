@@ -30,6 +30,10 @@ En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent 
 
 [1. Fonaments de la programació](https://docs.google.com/document/d/1FOsXI4HyUAwTVe_BVBkhsqSzRC6v7L2V7snhkHJevdw/edit?usp=sharing)
 
+### Repositori d'exemples
+
+[Accés al repositori amb les implementacions en Java dels exemples i activitats](https://github.com/mvmlabs/pg/tree/master/Exemples)
+
 ### Activitats i fites
 
 **_Activitats de repàs_**
@@ -49,3 +53,5 @@ Data límit d'entrega:
 - 1DAW: 19/09/22 a les 8.55h
 
 ### Bibliografia complementària
+- [**Bases de dades. Planas, Jaume Sistac. Edicions de la Universitat Oberta de catalunya, (2012)**](https://www.editorialuoc.cat/bases-de-dades)
+- [Repositori GitHub](https://youtu.be/6ldPabaV2Xo)

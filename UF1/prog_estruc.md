@@ -28,7 +28,7 @@ En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent 
 
 ### Apunts
 
-[1. Fonaments de la programació](https://docs.google.com/document/d/1FOsXI4HyUAwTVe_BVBkhsqSzRC6v7L2V7snhkHJevdw/edit?usp=sharing)
+1. Fonaments de la programació [teoria](https://docs.google.com/document/d/1FOsXI4HyUAwTVe_BVBkhsqSzRC6v7L2V7snhkHJevdw/edit?usp=sharing) - [presentació](M03.UF1. Programació estructurada.pdf)
 
 ### Repositori d'exemples
 
@@ -53,5 +53,4 @@ Data límit d'entrega:
 - 1DAW: 19/09/22 a les 8.55h
 
 ### Bibliografia complementària
-- [**Bases de dades. Planas, Jaume Sistac. Edicions de la Universitat Oberta de catalunya, (2012)**](https://www.editorialuoc.cat/bases-de-dades)
-- [Repositori GitHub](https://youtu.be/6ldPabaV2Xo)
+- [**OCP Oracle Certified Professional Java SE 11 Programmer I Exam Fundamentals 1Z0-815. Hanumant Deshmukh (2019)**](https://www.amazon.es/gp/product/1086955811)

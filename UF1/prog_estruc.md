@@ -53,7 +53,7 @@ Data límit d'entrega:
 - 1ASIX: 03/11/22 a les 8.55h
 - 1DAW: 03/10/22 a les 8.55h
 
-[AP1. Introducció a la programació] - FINALITZADA (https://docs.google.com/document/d/1XhBOPs3ZV0hF_c3PZZW3Zd-fDmZHdprRYCdWv7X6cBU/edit?usp=sharing)
+[AP1. Introducció a la programació - FINALITZADA](https://docs.google.com/document/d/1XhBOPs3ZV0hF_c3PZZW3Zd-fDmZHdprRYCdWv7X6cBU/edit?usp=sharing)
 
 Data límit d'entrega: 
 - 1ASIX: 16/09/22 a les 12.25h

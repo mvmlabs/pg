@@ -26,9 +26,10 @@ En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent 
 19. Utilitzar un entorn integrat de desenvolupament en la creació i compilació de programes simples.
 
 
-### Apunts
+### Apunts i materials
 
 1. Fonaments de la programació [teoria](https://docs.google.com/document/d/1FOsXI4HyUAwTVe_BVBkhsqSzRC6v7L2V7snhkHJevdw/edit?usp=sharing) - [presentació](M03.UF1. Programació estructurada.pdf)
+2. Màquina virtual amb el [Netbeans](https://drive.google.com/file/d/1XcBIQjlcjfo59UlicpuDmuy2NxQ02vaD/view?usp=sharing) i GitHub desktop instal·lats 
 
 ### Repositori d'exemples
 
@@ -49,10 +50,10 @@ En aquest apartat trobareu les activitats treballades a classe per a entendre el
 [AP2. Implementació en Java](https://docs.google.com/document/d/1E6sR2sZdZ4wUwzqFIAsT7yXYP27Ildr6VMmsnBAUtUA/edit?usp=sharing)
 
 Data límit d'entrega: 
-- 1ASIX: 01/11/22 a les 8.55h
-- 1DAW: 31/10/22 a les 8.55h
+- 1ASIX: 03/11/22 a les 8.55h
+- 1DAW: 03/10/22 a les 8.55h
 
-[AP1. Introducció a la programació](https://docs.google.com/document/d/1XhBOPs3ZV0hF_c3PZZW3Zd-fDmZHdprRYCdWv7X6cBU/edit?usp=sharing)
+[AP1. Introducció a la programació] - FINALITZADA (https://docs.google.com/document/d/1XhBOPs3ZV0hF_c3PZZW3Zd-fDmZHdprRYCdWv7X6cBU/edit?usp=sharing)
 
 Data límit d'entrega: 
 - 1ASIX: 16/09/22 a les 12.25h

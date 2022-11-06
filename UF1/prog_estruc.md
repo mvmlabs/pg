@@ -51,7 +51,7 @@ En aquest apartat trobareu les activitats treballades a classe per a entendre el
 
 Data límit d'entrega: 
 - 1ASIX: 03/11/22 a les 8.55h
-- 1DAW: 03/10/22 a les 8.55h
+- 1DAW: 03/11/22 a les 8.55h
 
 [AP1. Introducció a la programació - FINALITZADA](https://docs.google.com/document/d/1XhBOPs3ZV0hF_c3PZZW3Zd-fDmZHdprRYCdWv7X6cBU/edit?usp=sharing)
 

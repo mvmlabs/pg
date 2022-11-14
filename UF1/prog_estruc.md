@@ -26,9 +26,14 @@ En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent 
 19. Utilitzar un entorn integrat de desenvolupament en la creació i compilació de programes simples.
 
 
-### Apunts
+### Apunts i materials
 
-[1. Fonaments de la programació](https://docs.google.com/document/d/1FOsXI4HyUAwTVe_BVBkhsqSzRC6v7L2V7snhkHJevdw/edit?usp=sharing)
+1. Fonaments de la programació [teoria](https://docs.google.com/document/d/1FOsXI4HyUAwTVe_BVBkhsqSzRC6v7L2V7snhkHJevdw/edit?usp=sharing) - [presentació](M03.UF1. Programació estructurada.pdf)
+2. Màquina virtual amb el [Netbeans i GitHub desktop](https://drive.google.com/file/d/1XcBIQjlcjfo59UlicpuDmuy2NxQ02vaD/view?usp=sharing) instal·lats 
+
+### Repositori d'exemples
+
+[Accés al repositori amb les implementacions en Java dels exemples i activitats](https://github.com/mvmlabs/pg/tree/master/Exemples)
 
 ### Activitats i fites
 
@@ -42,10 +47,26 @@ En aquest apartat trobareu les activitats treballades a classe per a entendre el
 
 **_Fites a resoldre_**
 
-[AP1. Introducció a la programació](https://docs.google.com/document/d/1XhBOPs3ZV0hF_c3PZZW3Zd-fDmZHdprRYCdWv7X6cBU/edit?usp=sharing)
+[PR1. Projecte 1](https://docs.google.com/document/d/1VRJY6Jx0XOveM3axmror2Gva7MSH-kIR26Rlvmop_Xc/edit?usp=sharing)
+
+Data límit d'entrega: 
+- 1ASIX: 16/11/22 a les 8.55h
+- 1DAW: 16/11/22 a les 8.55h
+
+[AP2. Implementació en Java - FINALITZADA](https://docs.google.com/document/d/1E6sR2sZdZ4wUwzqFIAsT7yXYP27Ildr6VMmsnBAUtUA/edit?usp=sharing)
+
+Data límit d'entrega: 
+- 1ASIX: 03/11/22 a les 8.55h
+- 1DAW: 03/11/22 a les 8.55h
+
+[AP1. Introducció a la programació - FINALITZADA](https://docs.google.com/document/d/1XhBOPs3ZV0hF_c3PZZW3Zd-fDmZHdprRYCdWv7X6cBU/edit?usp=sharing)
 
 Data límit d'entrega: 
 - 1ASIX: 16/09/22 a les 12.25h
 - 1DAW: 19/09/22 a les 8.55h
 
 ### Bibliografia complementària
+- [**OCP Oracle Certified Professional Java SE 11 Programmer I Exam Fundamentals 1Z0-815. Hanumant Deshmukh (2019)**](https://www.amazon.es/gp/product/1086955811)
+- [**Java Api 17**](https://docs.oracle.com/en/java/javase/17/docs/api/)
+- [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
+- [Core Java Cheatsheet](https://drive.google.com/file/d/1b6eTYzY9RvU4YWNFDI4NZrh_QKVWEMIe/view?usp=share_link)

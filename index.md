@@ -16,9 +16,15 @@ Cada unitat formativa (UF) disposa de la seva carpeta corresponent, on estaran d
 
 Cada grup disposa d'un document on l'alumnat corresponent indicarà la url del seu repositori:
 
+<<<<<<< Updated upstream
 [1DAW - Llista repositoris i seguiment d'avaluació](https://docs.google.com/spreadsheets/d/1XJOxnXtz5m1X-f1Fxt0QpCeBM6_AtLzsJlz-oqbClb8/edit?usp=sharing)
 
 [1ASIX - Llista repositoris i seguiment d'avaluació](https://docs.google.com/spreadsheets/d/1j7XtjpuM-7QjDaFm-y2LEeBQlqRKtfQaICCveF0QqNA/edit?usp=sharing)
+=======
+[1DAW - Llista repositoris i seguiment avaluació](https://docs.google.com/spreadsheets/d/1XJOxnXtz5m1X-f1Fxt0QpCeBM6_AtLzsJlz-oqbClb8/edit?usp=sharing)
+
+[1ASIX - Llista repositoris i seguiment avaluació](https://docs.google.com/spreadsheets/d/1j7XtjpuM-7QjDaFm-y2LEeBQlqRKtfQaICCveF0QqNA/edit?usp=sharing)
+>>>>>>> Stashed changes
 
 ### Bibliografia
 

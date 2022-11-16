@@ -50,7 +50,7 @@ En aquest apartat trobareu les activitats treballades a classe per a entendre el
 [PR1. Projecte 1](https://docs.google.com/document/d/1VRJY6Jx0XOveM3axmror2Gva7MSH-kIR26Rlvmop_Xc/edit?usp=sharing)
 
 Data límit d'entrega: 
-- 1ASIX: 16/11/22 a les 8.55h
+- 1ASIX: 16/11/22 a les 8.55h (PRORROGADA)
 - 1DAW: 16/11/22 a les 8.55h
 
 [AP2. Implementació en Java - FINALITZADA](https://docs.google.com/document/d/1E6sR2sZdZ4wUwzqFIAsT7yXYP27Ildr6VMmsnBAUtUA/edit?usp=sharing)

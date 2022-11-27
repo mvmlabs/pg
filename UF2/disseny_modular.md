@@ -23,7 +23,7 @@ En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent 
 
 ### Repositori d'exemples
 
-[Accés al repositori amb les implementacions en Java dels exemples i activitats](https://github.com/mvmlabs/pg/tree/master/Exemples)
+[Accés al repositori amb les implementacions en Java dels exemples i activitats](https://github.com/mvmlabs/pg/tree/master/Exemples/UF2)
 
 ### Activitats i fites
 

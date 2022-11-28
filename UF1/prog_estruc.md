@@ -68,5 +68,5 @@ Data límit d'entrega:
 ### Bibliografia complementària
 - [**OCP Oracle Certified Professional Java SE 11 Programmer I Exam Fundamentals 1Z0-815. Hanumant Deshmukh (2019)**](https://www.amazon.es/gp/product/1086955811)
 - [**Java Api 17**](https://docs.oracle.com/en/java/javase/17/docs/api/)
-- [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
-- [Core Java Cheatsheet](https://drive.google.com/file/d/1b6eTYzY9RvU4YWNFDI4NZrh_QKVWEMIe/view?usp=share_link)
+- [**The Java™ Tutorials**](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
+- [**Core Java Cheatsheet**](https://drive.google.com/file/d/1b6eTYzY9RvU4YWNFDI4NZrh_QKVWEMIe/view?usp=share_link)

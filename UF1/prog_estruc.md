@@ -47,7 +47,9 @@ En aquest apartat trobareu les activitats treballades a classe per a entendre el
 
 **_Fites a resoldre_**
 
-[PR1. Projecte 1](https://docs.google.com/document/d/1VRJY6Jx0XOveM3axmror2Gva7MSH-kIR26Rlvmop_Xc/edit?usp=sharing)
+[PR2. Projecte 2](https://docs.google.com/document/d/11Cf4Pdck_FAcO2sw6gC0e1sSSA9Ri3jSk2n9q0nkHg4/edit?usp=sharing) Data límit d'entrega (1ASIX/1DAW): 21/12/22 a les 8.55h
+
+[PR1. Projecte 1 - FINALITZADA](https://docs.google.com/document/d/1VRJY6Jx0XOveM3axmror2Gva7MSH-kIR26Rlvmop_Xc/edit?usp=sharing)
 
 Data límit d'entrega: 
 - 1ASIX: 16/11/22 a les 8.55h (PRORROGADA)

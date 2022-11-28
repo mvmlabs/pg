@@ -6,7 +6,7 @@ Cada unitat formativa (UF) disposa de la seva carpeta corresponent, on estaran d
 [Presentació del mòdul professional](M03.PG.Presentacio.pdf)
 
 - [UF1. Programació estructurada](UF1/prog_estruc.md)
-- UF2. Disseny modular
+- [UF2. Disseny modular](UF2/disseny_modular.md)
 - UF3. Fonaments de gestió de fitxers
 - UF4. Programació orientada a objectes (POO). Fonaments
 - UF5. POO. Llibreries de classes fonamentals

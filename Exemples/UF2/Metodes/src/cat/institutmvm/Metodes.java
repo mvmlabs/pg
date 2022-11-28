@@ -19,7 +19,7 @@ public class Metodes {
         System.out.println(MSG_2 + method.sumar());
     }
     
-    //mètode que retorna la suma dels dos valors globals
+    //mètode que retorna la suma dels dos arguments
     public int sumar(int num1, int num2){
         return num1+num2;
     }

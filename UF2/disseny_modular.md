@@ -1,4 +1,4 @@
-## UF1. Programació estructurada
+## UF2. Disseny modular
 
 ### Objectius de la unitat formativa
 

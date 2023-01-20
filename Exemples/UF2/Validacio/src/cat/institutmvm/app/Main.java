@@ -6,16 +6,24 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        int valor;
+        /*int valor;
         InputManagement entrada = new InputManagement();
         Scanner sc = new Scanner(System.in);
         
-        valor = entrada.valida(1, sc, "Introdueix un nombre més gran o igual que 1");       
-        System.out.println(valor);
+        do{
+            System.out.println("Introdueix un nombre més gran o igual que 1");
+            valor = entrada.valida(sc.nextInt(), 1);
+        }while(valor<1);
         
-        valor = entrada.valida(3, 10, sc, "Introdueix un nombre entre el 3 i el 10 (inclosos)");
-        System.out.println(valor);
+        do{
+            System.out.println("Introdueix un valor entre 3 i 10 (inclosos)");
+            valor = entrada.valida(sc.nextInt(), 3, 10);
+        }while(valor<3 || valor>10);
         
-        sc.close();
+        sc.close();*/
+        
+        int n=4;
+        InputManagement met = new InputManagement();
+        met.hanoiTower(n, 'A', 'C', 'B');
     }   
 }

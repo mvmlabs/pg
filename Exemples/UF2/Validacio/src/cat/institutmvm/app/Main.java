@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        /*int valor;
+        int valor;
         InputManagement entrada = new InputManagement();
         Scanner sc = new Scanner(System.in);
         
@@ -20,10 +20,7 @@ public class Main {
             valor = entrada.valida(sc.nextInt(), 3, 10);
         }while(valor<3 || valor>10);
         
-        sc.close();*/
-        
-        int n=4;
-        InputManagement met = new InputManagement();
-        met.hanoiTower(n, 'A', 'C', 'B');
+        sc.close();
     }   
 }
+

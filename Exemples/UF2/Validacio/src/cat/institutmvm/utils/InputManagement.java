@@ -13,24 +13,15 @@ import java.util.Scanner;
 public class InputManagement {
     //demana per teclat un valor que sigui >= a num,
     // i el retorna quan es compleix la condició
-    public int valida(int num, Scanner sc, String msg){
-        int value=0;            
-        do{
-            System.out.println(msg);
-            value = sc.nextInt();
-        }while(value<=num);
-        return value;
-    } 
+    public int valida(int num, int value){
+        return (num<value)? 0 : num;
+    }
     
+        
     //demana per teclat un valor que estigui dins el rang [min, max],
     // i el retorna quan es compleix la condició
-    public int valida(int min, int max, Scanner sc, String msg){
-        int value=0;      
-        do{
-            System.out.println(msg);
-            value = sc.nextInt();
-        }while(value<=min || value>=max);
-        return value;
-    }
+    public int valida(int num, int min, int max){
+        return (num<min || num>max)? 0 : num;
+    }  
     
 }

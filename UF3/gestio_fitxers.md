@@ -4,17 +4,17 @@
 
 En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent en les següents fites:
 
-1 Reconèixer els conceptes relacionats amb fitxers.
-2 Reconèixer els diferents tipus de fitxers.
-3 Establir i diferencia les operacions a realitzar sobre els fitxers en el llenguatge de programació emprat.
-4 Utilitzar correctament diferents operacions sobre fitxers.
-5 Modular adequadament els programes que gestionen fitxers.
-6 Dissenyar, provra i documentra programes simples que gestionen fitxers.
+1. Reconèixer els conceptes relacionats amb fitxers.
+2. Reconèixer els diferents tipus de fitxers.
+3. Establir i diferencia les operacions a realitzar sobre els fitxers en el llenguatge de programació emprat.
+4. Utilitzar correctament diferents operacions sobre fitxers.
+5. Modular adequadament els programes que gestionen fitxers.
+6. Dissenyar, provra i documentra programes simples que gestionen fitxers.
 
 
 ### Apunts i materials
 
-1. Fonaments de gestió de fitxers 
+1. Fonaments de gestió de fitxers [Presentació](M03.UF3. Fonament de gestió de fitxers.pdf)
 
 ### Repositori d'exemples
 

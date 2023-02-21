@@ -41,6 +41,8 @@ En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent 
 
 Programació Orientada a Objectes. Fonaments. [Presentació](M03.UF4. Object Oriented Programming.pdf) - [Apunts](https://docs.google.com/document/d/1kclEfCw67ueHqFR3MHt_ns-2kUwf1fIXzw9YG2uvsng/edit?usp=sharing)
 
+[Java Foundations. Formació Certificació Oficial Java](https://drive.google.com/drive/folders/1smC7RHjftFEQNeMSLiX1TzjSTkUOWLkH?usp=share_link)
+
 ### Repositori d'exemples
 
 

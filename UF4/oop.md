@@ -39,7 +39,7 @@ En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent 
 
 ### Apunts i materials
 
-Programació Orientada a Objectes. Fonaments. [Presentació](M03.UF4. Object Oriented Programming.pdf) | [Apunts](https://docs.google.com/document/d/1kclEfCw67ueHqFR3MHt_ns-2kUwf1fIXzw9YG2uvsng/edit?usp=sharing)
+Programació Orientada a Objectes. Fonaments. [Presentació](M03.UF4. Object Oriented Programming.pdf) - [Apunts](https://docs.google.com/document/d/1kclEfCw67ueHqFR3MHt_ns-2kUwf1fIXzw9YG2uvsng/edit?usp=sharing)
 
 ### Repositori d'exemples
 

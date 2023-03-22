@@ -55,6 +55,7 @@ En aquest apartat trobareu les activitats treballades a classe per a entendre el
 
 ### Bibliografia complementària
 
+- [**OOP Cheatsheet**](Object Oriented Programming - Cheat Sheet.pdf) 
 - [**OCP Oracle Certified Professional Java SE 11 Programmer I Exam Fundamentals 1Z0-815. Hanumant Deshmukh (2019)**](https://www.amazon.es/gp/product/1086955811)
 - [**Java Api 17**](https://docs.oracle.com/en/java/javase/17/docs/api/)
 - [**The Java™ Tutorials**](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)

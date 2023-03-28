@@ -9,7 +9,7 @@ Cada unitat formativa (UF) disposa de la seva carpeta corresponent, on estaran d
 - [UF2. Disseny modular](UF2/disseny_modular.md)
 - [UF3. Fonaments de gestió de fitxers](UF3/gestio_fitxers.md)
 - [UF4. Programació orientada a objectes (POO). Fonaments](UF4/oop.md)
-- UF5. POO. Llibreries de classes fonamentals
+- [UF5. POO. Llibreries de classes fonamentals](UF5/llibreries_fonamentals_swing.md)
 - UF6. POO. Introducció a la persistència en BD
 
 **_Repositoris_**

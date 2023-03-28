@@ -30,7 +30,7 @@ En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent 
 
 ### Apunts i materials
 
-OOP. Llibreries de classes fonamentals. [Presentació] - [Apunts]
+OOP. Llibreries de classes fonamentals. [Presentació](M03.UF5. OOP. Llibreries de classes fonamentals.pdf) - [Apunts]
 
 [Java Foundations. Formació Certificació Oficial Java](https://drive.google.com/drive/folders/1smC7RHjftFEQNeMSLiX1TzjSTkUOWLkH?usp=share_link)
 

@@ -30,7 +30,7 @@ En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent 
 
 ### Apunts i materials
 
-OOP. Llibreries de classes fonamentals. [Presentació](M03.UF5. OOP. Llibreries de classes fonamentals.pdf) - [Apunts]
+OOP. Llibreries de classes fonamentals. [Presentació](M03.UF5. OOP. Llibreries de classes fonamentals.pdf) - [Apunts](https://docs.google.com/document/d/1-RnAbBG8gIKSouh4u2MYdZbAlZs2OpQ11gFT70HJ1kw/edit?usp=sharing)
 
 [Java Foundations. Formació Certificació Oficial Java](https://drive.google.com/drive/folders/1smC7RHjftFEQNeMSLiX1TzjSTkUOWLkH?usp=share_link)
 
@@ -45,6 +45,7 @@ En aquest apartat trobareu les activitats treballades a classe per a entendre el
 
 ### Bibliografia complementària
 
+- [**Java Modules**](https://www.oracle.com/corporate/features/understanding-java-9-modules.html)
 - [**OCP Oracle Certified Professional Java SE 11 Programmer I Exam Fundamentals 1Z0-815. Hanumant Deshmukh (2019)**](https://www.amazon.es/gp/product/1086955811)
 - [**Java Api 17**](https://docs.oracle.com/en/java/javase/17/docs/api/)
 - [**The Java™ Tutorials**](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)

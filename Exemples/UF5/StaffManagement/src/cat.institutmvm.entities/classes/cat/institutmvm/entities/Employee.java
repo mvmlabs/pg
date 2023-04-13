@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.time.Period;
 import java.time.temporal.ChronoUnit;
 
-public class Employee {
+public class Employee implements Comparable<Employee>{
     //<editor-fold defaultstate="collapsed" desc="Atributs (Estat)">
     private String code;
     private String firstname;
@@ -151,6 +151,10 @@ public class Employee {
         sb.append(String.format(">Seniority:     %d days %n", this.getSeniority()));
         sb.append(String.format(">AnnualSalary:  %.2f € %n", this.getAnnualSalary()));
         return sb.toString();
+    }
+     @Override
+    public int compareTo(Employee e) {
+        return this.getLastname().compareToIgnoreCase(e.getLastname());
     }
 
     //</editor-fold>

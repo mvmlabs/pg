@@ -25,6 +25,9 @@ En finalitzar aquesta unitat formativa, l'alumne ha d’assolir i ser competent 
 19. Realitza programes per recuperar, actualitzar i eliminar objectes de les bases de dades orientades a objectes.
 20. Realitza programes per emmagatzemar i gestionar tipus de dades estructurades, compostes i relacionades.
 
+### Apunts i materials
+
+UF 6: OOP. Introducció a la persistència en BD. [Presentació](M03.UF6. OOP. Introducció a la persistència en BD.pdf) 
 
 ### Bibliografia complementària
 
